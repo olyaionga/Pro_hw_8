@@ -21,13 +21,13 @@ switch (city) {
 
 switch (favoriteSport) {
   case "футбол":
-    champion = "Ліонель Мессі";
+    champion = "Криштиану Роналду";
+    break;
+  case "бокс":
+    champion = "Майк Тайсон";
     break;
   case "баскетбол":
-    champion = "Леброн Джеймс";
-    break;
-  case "теніс":
-    champion = "Рафаель Надаль";
+    champion = "Майкл Джордан";
     break;
 }
 
