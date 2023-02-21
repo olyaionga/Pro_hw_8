@@ -39,7 +39,7 @@ if (birthYear && city && favoriteSport) {
     message;
 
   if (champion) {
-    message += "\nКруто! Хочеш стати " + champion + "?";
+    message += "\nКруто! Хочеш стати як " + champion + "?";
   }
 
   alert(message);
